@@ -1,0 +1,4 @@
+When page is ideal how to get latest data from api in reactjs? without refresh
+
+componentwillmount and componentdidmount difference and how to achieve in function components?
+
